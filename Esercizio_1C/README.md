@@ -1,18 +1,4 @@
-# Esercizio 1C
-Lettura
+Kleist_Sul teatro di marionette
 
-## Brief
-Leggere il testo di Kleist e scrivere un commento e publiccarlo nel file README.md.
-
-## Restrizioni
-- 500-1000 caratteri
-
-## Consegna
-Pubblicare il commento sulla piattaforma GitHub nel file README.md.
-
-## Struttura cartella
-```
-GIM/esercizio_1C
-	README.md
-``` 
-
+Dopo aver letto più volte il testo, credo di aver capito il messaggio che l'autore intendeva comunicare, forse perché anche io mi sono ritrovato a riflettere sulla contrapposizione tra corpo e mente, 
+tra istinto e ragione. Queste riflessioni mi hanno poi portato ad una conclusione simile a quella del signor C. Da quando l'uomo si è voluto distaccare dal regno animale ha perso la capacità di ascolatre la natura che è in lui, quella natura che è parte del corpo e non della mente, o almeno non di quella conscia. Credo che ci siano aspetti della vita che possano essere colti solo con l'istinto, e quindi solamente riuscendo a tornare ad ascoltare il corpo istintivo distaccandosi dal pensiero razionale. Questo infatti è ciò che invece gli animali non hanno mai conosciuto e per questo sono in grado di cogliere quegli aspetti che sono al di sotto della superficie, della maschera che noi umani ci costruiamo per vivere con le altre maschere. E sono anche d'accordo con il concetto di "estremi che coincidono", perchè per essere nello stato di istinto puro, o bisogna essere un animale che, come dicevo prima, non ha mai conosciuto la ragione, oppure bisogna avere una tale consapevolezza da rendersi conto che la ragione è qualcosa di molto utile ma che abbiamo creato noi, che ci ha allontanato dalla nostra vera natura e che dopo averla vista per quello che è, debba poi essere considerata come uno strumento sicuramente incredibile e preziosa, che ci permette oggi di sopravvivere, ma non come la vera essenza della vita. 
