@@ -1,10 +1,10 @@
 ESERCIZIO 1
 
-https://github.com/XianSom/GIM/blob/main/Esercizio_1A/template/acceso_spento_2.html;
-https://github.com/XianSom/GIM/blob/main/Esercizio_1A/template/acceso_spento_3.html
+//https://github.com/XianSom/GIM/blob/main/Esercizio_1A/template/acceso_spento_2.html
+//https://github.com/XianSom/GIM/blob/main/Esercizio_1A/template/acceso_spento_3.html
 
-https://github.com/XianSom/GIM/blob/main/Esercizio_1A/template/aperto_chiuso_2.html
-https://github.com/XianSom/GIM/blob/main/Esercizio_1A/template/aperto_chiuso_3.html
+//https://github.com/XianSom/GIM/blob/main/Esercizio_1A/template/aperto_chiuso_2.html
+//https://github.com/XianSom/GIM/blob/main/Esercizio_1A/template/aperto_chiuso_3.html
 
 https://github.com/XianSom/GIM/blob/main/Esercizio_1A/template/rotazione_2.html
 https://github.com/XianSom/GIM/blob/main/Esercizio_1A/template/rotazione_3.html
