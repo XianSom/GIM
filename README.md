@@ -19,9 +19,7 @@ https://github.com/XianSom/GIM/tree/main/Esercizio_1C
 
 ESERCIZIO 2
 https://github.com/XianSom/GIM/blob/main/Esercizio_2/Acceso_Accesi/Acceso_accesi.html
-
 https://github.com/XianSom/GIM/blob/main/Esercizio_2/Lift/Lift.html
-
 https://github.com/XianSom/GIM/blob/main/Esercizio_2/MARE.png
 
 
