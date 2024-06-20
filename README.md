@@ -14,7 +14,7 @@ https://xiansom.github.io/GIM/Esercizio_1A/template/rotazione_3.html
 
 https://xiansom.github.io/GIM/Esercizio_1A/template/spostamento_2.html
 
-https://xiansom.github.io/GIM/Esercizio_1A/template/spostamento_2.html
+https://xiansom.github.io/GIM/Esercizio_1A/template/spostamento_3.html
 
 https://xiansom.github.io/GIM/Esercizio_1B/template/Interazione.html
 
