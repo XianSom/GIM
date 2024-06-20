@@ -23,7 +23,7 @@ https://xiansom.github.io/GIM/Esercizio_1C/README.md
 
 ESERCIZIO 2
 
-https://xiansom.github.io/GIM/Esercizio_2/Acceso_accesi.html
+https://xiansom.github.io/GIM/Esercizio_2/Acceso_Accesi/Acceso_accesi.html
 
 https://xiansom.github.io/GIM/Esercizio_2/Lift/Lift.html
 
