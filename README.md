@@ -32,6 +32,6 @@ https://xiansom.github.io/GIM/Esercizio_2/MARE.png
 
 ESERCIZIO 3
 
-https://xiansom.github.io/GIM/Esercizio_3/Orologio Geometrico Radiale/Orologio_Geometrico_Radiale.html
+https://xiansom.github.io/GIM/Esercizio_3/Orologio%Geometrico%Radiale/Orologio_Geometrico_Radiale.html
 
-https://xiansom.github.io/GIM/Esercizio_3/Orologio Radiale/Orologio_Radiale.html
+https://xiansom.github.io/GIM/Esercizio_3/Orologio%Radiale/Orologio_Radiale.html
