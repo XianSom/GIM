@@ -23,15 +23,15 @@ https://xiansom.github.io/GIM/Esercizio_1C/README.md
 
 ESERCIZIO 2
 
-https://github.com/XianSom/GIM/blob/main/Esercizio_2/Acceso_Accesi
+https://xiansom.github.io/GIM/Esercizio_2/Acceso_accesi.html
 
-https://github.com/XianSom/GIM/blob/main/Esercizio_2/Lift
+https://xiansom.github.io/GIM/Esercizio_2/Lift/Lift.html
 
-https://github.com/XianSom/GIM/blob/main/Esercizio_2/MARE.png
+https://xiansom.github.io/GIM/Esercizio_2/MARE.png
 
 
 ESERCIZIO 3
 
-https://github.com/XianSom/GIM/tree/main/Esercizio_3/Orologio%20Geometrico%20Radiale
+https://xiansom.github.io/GIM/Esercizio_3/Orologio Geometrico Radiale/Orologio_Geometrico_Radiale.html
 
-https://github.com/XianSom/GIM/tree/main/Esercizio_3/Orologio%20Radiale
+https://xiansom.github.io/GIM/Esercizio_3/Orologio Radiale/Orologio_Radiale.html
